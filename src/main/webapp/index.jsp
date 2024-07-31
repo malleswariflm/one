@@ -10,7 +10,7 @@
 	<h1 style="color: pink; font-size: 40px;" align="center">WE ARE SUCCESSFULLY DEPLOYED APPLICATION</h1>
 	<h1 style="color: pink; font-size: 40px;" align="center">WE INTEGRATED NEXUS TO JENKINS</h1>
 	<h1 style="color: pink; font-size: 40px;" align="center">this is my first deployment</h1>
-	<h1 style="color: green; font-size: 40px;" align="center">integration with git nexus and maven done</h1>
+	<h1 style="color: green; font-size: 40px;" align="center">integration with git nexus and maven done done</h1>
 	
 	
 	
